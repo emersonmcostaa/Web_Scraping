@@ -4,10 +4,11 @@
 
 ## Sobre o projeto
 
-Este é um projeto pessoal para aplicação de estudos que tenho feito.
-Destaco os seguintes pontos desse projeto:
+Este é um projeto pessoal de _Web Scraping_, tendo como pricipal objetivo colocar em prática alguns dos meus aprendizados.
 
-1. Coleta (web scraping) de todos os livros da Bíblia e url dos mesmos a partir do site https://www.bibliaonline.com.br/nvi;
+__Destaco os seguintes pontos desse projeto:__
+
+1. Coleta _(web scraping)_ de todos os nomes dos livros da bíblia e url(link) referente a cada um, a partir do site https://www.bibliaonline.com.br/nvi;
 
 2. Amazenamento dos dados coletados em um dicionário;
 
@@ -15,7 +16,7 @@ Destaco os seguintes pontos desse projeto:
 
 ## Tecnologias utilizadas
 
-- Python
+- __Python__
 
    Módulo `requests`
 
@@ -27,14 +28,15 @@ Pré-requisitos: Python 3.6 ou superior
 
 ```bash
 # clonar repositório
-git clone https://github.com/emersonmcostaa
+git clone https://github.com/emersonmcostaa/Web_Scraping
 
 # instalar bibliotecas usadas no projeto
-pip install requests
 pip install bs4
+pip install requests
 
 # executar o projeto
-python web_scrapping_biblia.py
+python web_scraping_biblia.py
+
 ```
 
 ## Autor
