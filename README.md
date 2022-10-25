@@ -8,7 +8,7 @@ Este é um projeto pessoal de _Web Scraping_, tendo como pricipal objetivo coloc
 
 __Destaco os seguintes pontos desse projeto:__
 
-1. Coleta _(web scraping)_ de todos os nomes dos livros da bíblia e url(link) referente a cada um, a partir do site https://www.bibliaonline.com.br/nvi;
+1. Coleta _(web scraping)_ de todos os nomes dos livros da bíblia e link referente a cada um, a partir do site: https://www.bibliaonline.com.br/nvi;
 
 2. Amazenamento dos dados coletados em um dicionário;
 
@@ -18,9 +18,9 @@ __Destaco os seguintes pontos desse projeto:__
 
 - __Python__
 
-   Módulo `requests`
+   _Módulo_ `requests`
 
-   Módulo `BeautifulSoup`
+   _Módulo_ `BeautifulSoup`
 
 ## Como executar o projeto
 
