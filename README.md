@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-Este é um projeto pessoal para aplicação de aplicação de estudos que tenho feito.
+Este é um projeto pessoal para aplicação de estudos que tenho feito.
 Destaco os seguintes pontos desse projeto:
 
 1. Coleta (web scraping) de todos os livros da Bíblia e url dos mesmos a partir do site https://www.bibliaonline.com.br/nvi;
