@@ -10,7 +10,7 @@ __Destaco os seguintes pontos desse projeto:__
 
 1. Coleta _(web scraping)_ de todos os nomes dos livros da bíblia e link referente a cada um, a partir do site: https://www.bibliaonline.com.br/nvi;
 
-2. Amazenamento dos dados coletados em um dicionário;
+2. Armazenamento dos dados coletados em um dicionário;
 
 3. Salvando os dados em um arquivo(.json).
 
