@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-Este é um projeto pessoal de _Web Scraping_, tendo como pricipal objetivo colocar em prática alguns dos meus aprendizados.
+Este é um projeto pessoal de _Web Scraping_, tendo como principal objetivo colocar em prática alguns dos meus aprendizados.
 
 __Destaco os seguintes pontos desse projeto:__
 
